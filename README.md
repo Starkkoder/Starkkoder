@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Starkkoder
+- 👋 Hi, I’m @Starkkodder
 - 👀 I’m interested in Backend development.
 - 🌱 I’m currently learning Python and also Algorithms
 - 💞️ I’m looking to collaborate on (need to get back with you on this one)
